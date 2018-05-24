@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{509:function(e,o){e.exports={data:{site:{siteMetadata:{title:"Voracious Bookworm"}},allMarkdownRemark:{edges:[{node:{excerpt:"Exciting news!!! My book blog has a new home!\nIt even has a grown-up domain name (grown-up because I have to pay for it). Now that things…",fields:{slug:"/hello-world/"},frontmatter:{date:"24 May, 2018",title:"Hello World!"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-f381f739a4cfbc0d7609.js.map
