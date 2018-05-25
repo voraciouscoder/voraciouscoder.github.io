@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Lei",
   "dependencies": {
-    "gatsby": "^1.9.250",
+    "gatsby": "^1.9.261",
     "gatsby-link": "^1.6.39",
     "gatsby-plugin-feed": "^1.3.20",
     "gatsby-plugin-google-analytics": "^1.0.29",
@@ -18,12 +18,13 @@
     "gatsby-remark-prismjs": "^1.2.24",
     "gatsby-remark-responsive-iframe": "^1.4.18",
     "gatsby-remark-smartypants": "^1.4.12",
-    "gatsby-source-filesystem": "^1.5.31",
+    "gatsby-source-filesystem": "^1.5.36",
     "gatsby-transformer-remark": "^1.7.40",
     "gatsby-transformer-sharp": "^1.6.22",
     "lodash": "^4.17.5",
-    "typeface-merriweather": "0.0.43",
-    "typeface-montserrat": "0.0.43",
+    "typeface-libre-baskerville": "0.0.54",
+    "typeface-petrona": "0.0.54",
+    "typeface-raleway": "0.0.54",
     "typography-theme-wordpress-2016": "^0.15.10"
   },
   "devDependencies": {
