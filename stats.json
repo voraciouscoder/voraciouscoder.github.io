@@ -21,12 +21,16 @@
       "component---src-layouts-index-js-44492c9ab8e27c740086.js.map"
     ],
     "path---index": [
-      "path---index-f381f739a4cfbc0d7609.js",
-      "path---index-f381f739a4cfbc0d7609.js.map"
+      "path---index-ce0aca75ece86a19f9eb.js",
+      "path---index-ce0aca75ece86a19f9eb.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-838d69d22cfc164e7a01.js",
-      "path---hello-world-838d69d22cfc164e7a01.js.map"
+      "path---hello-world-d5d6fde4e89c0565e7cb.js",
+      "path---hello-world-d5d6fde4e89c0565e7cb.js.map"
+    ],
+    "path---reading-roundup-11": [
+      "path---reading-roundup-11-1a00f9b0fa4488a8c39b.js",
+      "path---reading-roundup-11-1a00f9b0fa4488a8c39b.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-c22a13281c7d8fb0e23f.js",
@@ -47,9 +51,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-7acbee8b972f5eec0309.js",
+      "app-efa8cbdde6f49c6c7a81.js",
       "build-js-styles.css",
-      "app-7acbee8b972f5eec0309.js.map",
+      "app-efa8cbdde6f49c6c7a81.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
