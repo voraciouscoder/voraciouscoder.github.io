@@ -26,6 +26,7 @@ class Template extends React.Component {
             style={{
               boxShadow: 'none',
               textDecoration: 'none',
+              backgroundImage: 'none',
               color: 'inherit',
             }}
             to={'/'}
@@ -38,7 +39,7 @@ class Template extends React.Component {
       header = (
         <h3
           style={{
-            fontFamily: 'Raleway, sans-serif',
+            fontFamily: 'Valera Round, sans-serif',
             marginTop: 0,
             marginBottom: rhythm(-1),
           }}
@@ -47,6 +48,7 @@ class Template extends React.Component {
             style={{
               boxShadow: 'none',
               textDecoration: 'none',
+              backgroundImage: 'none',
               color: 'inherit',
             }}
             to={'/'}

@@ -25,7 +25,7 @@
     "typeface-libre-baskerville": "0.0.54",
     "typeface-petrona": "0.0.54",
     "typeface-raleway": "0.0.54",
-    "typography-theme-wordpress-2016": "^0.15.10"
+    "typography-theme-lincoln": "^0.15.11"
   },
   "devDependencies": {
     "eslint": "^4.19.1",

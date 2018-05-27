@@ -4,7 +4,6 @@ import React from 'react'
 import 'typeface-raleway'
 import 'typeface-libre-baskerville'
 
-
 import profilePic from './profile-pic.jpg'
 import { rhythm } from '../utils/typography'
 
