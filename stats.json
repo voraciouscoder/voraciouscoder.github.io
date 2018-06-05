@@ -1,12 +1,24 @@
 {
   "assetsByChunkName": {
+    "path---reading-challenges": [
+      "path---reading-challenges-a0e39f21c11f6a62c5ab.js",
+      "path---reading-challenges-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---reading-roundup-12": [
+      "path---reading-roundup-12-8178613f1f33542ed7e3.js",
+      "path---reading-roundup-12-8178613f1f33542ed7e3.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-67edd08a9a638e5647e1.js",
-      "component---src-pages-index-js-67edd08a9a638e5647e1.js.map"
+      "component---src-pages-index-js-19bace40112a96c0b14d.js",
+      "component---src-pages-index-js-19bace40112a96c0b14d.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-reading-challenges-js": [
+      "component---src-pages-reading-challenges-js-709ecfcc2053ee3fc6c6.js",
+      "component---src-pages-reading-challenges-js-709ecfcc2053ee3fc6c6.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -21,16 +33,20 @@
       "component---src-layouts-index-js-44492c9ab8e27c740086.js.map"
     ],
     "path---index": [
-      "path---index-ce0aca75ece86a19f9eb.js",
-      "path---index-ce0aca75ece86a19f9eb.js.map"
+      "path---index-0b583fed3c7d9a97c3de.js",
+      "path---index-0b583fed3c7d9a97c3de.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-d5d6fde4e89c0565e7cb.js",
-      "path---hello-world-d5d6fde4e89c0565e7cb.js.map"
+      "path---hello-world-a5400d4b2735c4964042.js",
+      "path---hello-world-a5400d4b2735c4964042.js.map"
     ],
     "path---reading-roundup-11": [
-      "path---reading-roundup-11-1a00f9b0fa4488a8c39b.js",
-      "path---reading-roundup-11-1a00f9b0fa4488a8c39b.js.map"
+      "path---reading-roundup-11-cb953cc5723a5fc4f35a.js",
+      "path---reading-roundup-11-cb953cc5723a5fc4f35a.js.map"
+    ],
+    "path---reading-roundup-13": [
+      "path---reading-roundup-13-64cff45773a9929fb2c3.js",
+      "path---reading-roundup-13-64cff45773a9929fb2c3.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-c22a13281c7d8fb0e23f.js",
@@ -46,14 +62,18 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---reading-roundup-10": [
+      "path---reading-roundup-10-b11bcecc90a41b243068.js",
+      "path---reading-roundup-10-b11bcecc90a41b243068.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-efa8cbdde6f49c6c7a81.js",
+      "app-932626f6a9aa842500e0.js",
       "build-js-styles.css",
-      "app-efa8cbdde6f49c6c7a81.js.map",
+      "app-932626f6a9aa842500e0.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [

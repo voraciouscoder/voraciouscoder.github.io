@@ -1,0 +1,2 @@
+webpackJsonp([98907491258728],{387:function(e,t,l){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=l(3),a=n(u),r=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Reading Challenges"),a.default.createElement("h2",null,a.default.createElement("i",null,"Under Construction")))};t.default=r,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-reading-challenges-js-709ecfcc2053ee3fc6c6.js.map
