@@ -5,7 +5,10 @@ class Links extends React.Component {
   render() {
     return (
       <div>
-      <h4><Link to="/About/">About</Link></h4>
+      <h4><Link to="/about/">About</Link>{' - '}
+      <Link to="/reading-challenges/">Reading Challenges</Link>
+      </h4>
+      <h4></h4>
       </div>
     )
   }
