@@ -33,20 +33,24 @@
       "component---src-layouts-index-js-44492c9ab8e27c740086.js.map"
     ],
     "path---index": [
-      "path---index-0b583fed3c7d9a97c3de.js",
-      "path---index-0b583fed3c7d9a97c3de.js.map"
+      "path---index-5bed9a63fee215d85696.js",
+      "path---index-5bed9a63fee215d85696.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-a5400d4b2735c4964042.js",
       "path---hello-world-a5400d4b2735c4964042.js.map"
+    ],
+    "path---reading-roundup-14": [
+      "path---reading-roundup-14-3452e5e95389b414917d.js",
+      "path---reading-roundup-14-3452e5e95389b414917d.js.map"
     ],
     "path---reading-roundup-11": [
       "path---reading-roundup-11-cb953cc5723a5fc4f35a.js",
       "path---reading-roundup-11-cb953cc5723a5fc4f35a.js.map"
     ],
     "path---reading-roundup-13": [
-      "path---reading-roundup-13-64cff45773a9929fb2c3.js",
-      "path---reading-roundup-13-64cff45773a9929fb2c3.js.map"
+      "path---reading-roundup-13-f10574eb432852714001.js",
+      "path---reading-roundup-13-f10574eb432852714001.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-c22a13281c7d8fb0e23f.js",
@@ -63,17 +67,21 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---reading-roundup-10": [
-      "path---reading-roundup-10-b11bcecc90a41b243068.js",
-      "path---reading-roundup-10-b11bcecc90a41b243068.js.map"
+      "path---reading-roundup-10-3e92e99b125b35df82d7.js",
+      "path---reading-roundup-10-3e92e99b125b35df82d7.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---reading-roundup-9": [
+      "path---reading-roundup-9-16757d947d96a6af538a.js",
+      "path---reading-roundup-9-16757d947d96a6af538a.js.map"
+    ],
     "app": [
-      "app-932626f6a9aa842500e0.js",
+      "app-331e77b706994fae3fa1.js",
       "build-js-styles.css",
-      "app-932626f6a9aa842500e0.js.map",
+      "app-331e77b706994fae3fa1.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
