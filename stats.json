@@ -12,6 +12,10 @@
       "component---src-pages-index-js-19bace40112a96c0b14d.js",
       "component---src-pages-index-js-19bace40112a96c0b14d.js.map"
     ],
+    "path---reading-roundup-15": [
+      "path---reading-roundup-15-a338b445511d09091dbf.js",
+      "path---reading-roundup-15-a338b445511d09091dbf.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
@@ -33,16 +37,16 @@
       "component---src-layouts-index-js-44492c9ab8e27c740086.js.map"
     ],
     "path---index": [
-      "path---index-5bed9a63fee215d85696.js",
-      "path---index-5bed9a63fee215d85696.js.map"
+      "path---index-afd2d40c7077a5ce3814.js",
+      "path---index-afd2d40c7077a5ce3814.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-a5400d4b2735c4964042.js",
       "path---hello-world-a5400d4b2735c4964042.js.map"
     ],
     "path---reading-roundup-14": [
-      "path---reading-roundup-14-3452e5e95389b414917d.js",
-      "path---reading-roundup-14-3452e5e95389b414917d.js.map"
+      "path---reading-roundup-14-a24d52a4b9be2216c331.js",
+      "path---reading-roundup-14-a24d52a4b9be2216c331.js.map"
     ],
     "path---reading-roundup-11": [
       "path---reading-roundup-11-cb953cc5723a5fc4f35a.js",
@@ -79,9 +83,9 @@
       "path---reading-roundup-9-16757d947d96a6af538a.js.map"
     ],
     "app": [
-      "app-331e77b706994fae3fa1.js",
+      "app-dc5e1698d99df8dd511f.js",
       "build-js-styles.css",
-      "app-331e77b706994fae3fa1.js.map",
+      "app-dc5e1698d99df8dd511f.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
