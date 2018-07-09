@@ -5,8 +5,8 @@
       "path---reading-challenges-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---reading-roundup-17": [
-      "path---reading-roundup-17-5947383e031d835f562a.js",
-      "path---reading-roundup-17-5947383e031d835f562a.js.map"
+      "path---reading-roundup-17-5827ec644678525c3794.js",
+      "path---reading-roundup-17-5827ec644678525c3794.js.map"
     ],
     "path---reading-roundup-12": [
       "path---reading-roundup-12-59b94b4ffa3276d23289.js",
@@ -28,6 +28,10 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---reading-roundup-18": [
+      "path---reading-roundup-18-67d5d12a6becafbd8da4.js",
+      "path---reading-roundup-18-67d5d12a6becafbd8da4.js.map"
+    ],
     "component---src-pages-reading-challenges-js": [
       "component---src-pages-reading-challenges-js-709ecfcc2053ee3fc6c6.js",
       "component---src-pages-reading-challenges-js-709ecfcc2053ee3fc6c6.js.map"
@@ -45,8 +49,8 @@
       "component---src-layouts-index-js-ccaa5bbd74980beb5e95.js.map"
     ],
     "path---index": [
-      "path---index-3a11c94fefac7e0d5101.js",
-      "path---index-3a11c94fefac7e0d5101.js.map"
+      "path---index-e1b2a2c14e1136093224.js",
+      "path---index-e1b2a2c14e1136093224.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-803956b3641c07d2eaa6.js",
@@ -91,9 +95,9 @@
       "path---reading-roundup-9-4bbfb5bd693d09275d9c.js.map"
     ],
     "app": [
-      "app-e3e41ab36d661cf85231.js",
+      "app-8c7a90c72fe500168bea.js",
       "build-js-styles.css",
-      "app-e3e41ab36d661cf85231.js.map",
+      "app-8c7a90c72fe500168bea.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
