@@ -61,8 +61,8 @@
       "component---src-layouts-index-js-44492c9ab8e27c740086.js.map"
     ],
     "path---index": [
-      "path---index-081c768350cb37d17113.js",
-      "path---index-081c768350cb37d17113.js.map"
+      "path---index-c6a07c3a431edcc72d18.js",
+      "path---index-c6a07c3a431edcc72d18.js.map"
     ],
     "path---reading-roundup-20": [
       "path---reading-roundup-20-302fbe5734ce00cb3c7d.js",
@@ -88,6 +88,10 @@
       "component---src-pages-404-js-c22a13281c7d8fb0e23f.js",
       "component---src-pages-404-js-c22a13281c7d8fb0e23f.js.map"
     ],
+    "path---reading-roundup-26": [
+      "path---reading-roundup-26-6370a7b529dce074cca9.js",
+      "path---reading-roundup-26-6370a7b529dce074cca9.js.map"
+    ],
     "commons": [
       "commons-6e82eaae3f56c620a9ec.js",
       "build-js-styles.css",
@@ -99,8 +103,8 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---reading-roundup-25": [
-      "path---reading-roundup-25-ce0da6c2d03c709dcd7d.js",
-      "path---reading-roundup-25-ce0da6c2d03c709dcd7d.js.map"
+      "path---reading-roundup-25-f6b79c7979f87c1d6126.js",
+      "path---reading-roundup-25-f6b79c7979f87c1d6126.js.map"
     ],
     "path---reading-roundup-10": [
       "path---reading-roundup-10-3e92e99b125b35df82d7.js",
@@ -115,9 +119,9 @@
       "path---reading-roundup-9-16757d947d96a6af538a.js.map"
     ],
     "app": [
-      "app-9edd900c05bb14e15ae9.js",
+      "app-852d808e2a5b5dfc562d.js",
       "build-js-styles.css",
-      "app-9edd900c05bb14e15ae9.js.map",
+      "app-852d808e2a5b5dfc562d.js.map",
       "build-js-styles.css.map"
     ],
     "path---reading-roundup-21": [
