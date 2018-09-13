@@ -60,9 +60,13 @@
       "component---src-layouts-index-js-44492c9ab8e27c740086.js",
       "component---src-layouts-index-js-44492c9ab8e27c740086.js.map"
     ],
+    "path---reading-roundup-27": [
+      "path---reading-roundup-27-fa04ffae2bf5f9dc125e.js",
+      "path---reading-roundup-27-fa04ffae2bf5f9dc125e.js.map"
+    ],
     "path---index": [
-      "path---index-c6a07c3a431edcc72d18.js",
-      "path---index-c6a07c3a431edcc72d18.js.map"
+      "path---index-0455eb54f64f7b35c784.js",
+      "path---index-0455eb54f64f7b35c784.js.map"
     ],
     "path---reading-roundup-20": [
       "path---reading-roundup-20-302fbe5734ce00cb3c7d.js",
@@ -89,8 +93,8 @@
       "component---src-pages-404-js-c22a13281c7d8fb0e23f.js.map"
     ],
     "path---reading-roundup-26": [
-      "path---reading-roundup-26-6370a7b529dce074cca9.js",
-      "path---reading-roundup-26-6370a7b529dce074cca9.js.map"
+      "path---reading-roundup-26-fd82885ee3f9551eeb44.js",
+      "path---reading-roundup-26-fd82885ee3f9551eeb44.js.map"
     ],
     "commons": [
       "commons-6e82eaae3f56c620a9ec.js",
@@ -119,9 +123,9 @@
       "path---reading-roundup-9-16757d947d96a6af538a.js.map"
     ],
     "app": [
-      "app-852d808e2a5b5dfc562d.js",
+      "app-86aaae8f013ca0b0a32b.js",
       "build-js-styles.css",
-      "app-852d808e2a5b5dfc562d.js.map",
+      "app-86aaae8f013ca0b0a32b.js.map",
       "build-js-styles.css.map"
     ],
     "path---reading-roundup-21": [
