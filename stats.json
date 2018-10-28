@@ -20,6 +20,10 @@
       "path---reading-roundup-22-6d2552dcb6ce0bced8be.js",
       "path---reading-roundup-22-6d2552dcb6ce0bced8be.js.map"
     ],
+    "path---reading-roundup-33": [
+      "path---reading-roundup-33-f5570216698542f55bca.js",
+      "path---reading-roundup-33-f5570216698542f55bca.js.map"
+    ],
     "path---reading-roundup-15": [
       "path---reading-roundup-15-e2dd48967d6487282f9e.js",
       "path---reading-roundup-15-e2dd48967d6487282f9e.js.map"
@@ -52,6 +56,10 @@
       "path---reading-roundup-19-15b1c2adca95bcd70df4.js",
       "path---reading-roundup-19-15b1c2adca95bcd70df4.js.map"
     ],
+    "path---reading-roundup-30": [
+      "path---reading-roundup-30-71805c404ea798c88ecd.js",
+      "path---reading-roundup-30-71805c404ea798c88ecd.js.map"
+    ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-af1caf5a004f35c52846.js",
       "component---src-templates-blog-post-js-af1caf5a004f35c52846.js.map"
@@ -69,8 +77,8 @@
       "path---reading-roundup-28-93db58a35a5968f7e1f0.js.map"
     ],
     "path---index": [
-      "path---index-aefd996da9f50c182cbd.js",
-      "path---index-aefd996da9f50c182cbd.js.map"
+      "path---index-0fd84aba92ee09d41b75.js",
+      "path---index-0fd84aba92ee09d41b75.js.map"
     ],
     "path---reading-roundup-20": [
       "path---reading-roundup-20-302fbe5734ce00cb3c7d.js",
@@ -122,19 +130,23 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---reading-roundup-31": [
+      "path---reading-roundup-31-e3f4373f36c45280bb71.js",
+      "path---reading-roundup-31-e3f4373f36c45280bb71.js.map"
+    ],
     "path---reading-roundup-9": [
       "path---reading-roundup-9-16757d947d96a6af538a.js",
       "path---reading-roundup-9-16757d947d96a6af538a.js.map"
     ],
     "app": [
-      "app-c7a71862db55fe589414.js",
+      "app-2c142fc11370587444aa.js",
       "build-js-styles.css",
-      "app-c7a71862db55fe589414.js.map",
+      "app-2c142fc11370587444aa.js.map",
       "build-js-styles.css.map"
     ],
     "path---reading-roundup-29": [
-      "path---reading-roundup-29-95f7d74135ddc8dd7747.js",
-      "path---reading-roundup-29-95f7d74135ddc8dd7747.js.map"
+      "path---reading-roundup-29-63e3fed293f295819f70.js",
+      "path---reading-roundup-29-63e3fed293f295819f70.js.map"
     ],
     "path---reading-roundup-21": [
       "path---reading-roundup-21-4db693fd2b1e388c94d8.js",
@@ -151,6 +163,10 @@
     "component---src-pages-about-js": [
       "component---src-pages-about-js-e9aec925fbbc1103ceaf.js",
       "component---src-pages-about-js-e9aec925fbbc1103ceaf.js.map"
+    ],
+    "path---reading-roundup-32": [
+      "path---reading-roundup-32-d9cb8a74ee5aa566271a.js",
+      "path---reading-roundup-32-d9cb8a74ee5aa566271a.js.map"
     ],
     "path---about": [
       "path---about-a0e39f21c11f6a62c5ab.js",
